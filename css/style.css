@@ -1,0 +1,167 @@
+body {
+  background: #333;
+  color: #fff;
+}
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8;
+  background-color: #fff;
+  margin-left: -5px;
+}
+
+.nav-link {
+  color: #2B353E;
+  font-family: 'Roboto', sans-serif;
+}
+
+.blood {
+  color: #C22944;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+}
+
+.bank {
+  color: #00539E;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+}
+
+.gift {
+  font-family: 'Poppins', sans-serif;
+  font-size: 80px;
+  font-weight: 600;
+  color: #C22944;
+  margin-left: -10px;
+}
+
+.life {
+  font-family: 'Poppins', sans-serif;
+  font-size: 80px;
+  font-weight: 600;
+  color: #00539E;
+  margin-left: -0.5px;
+  
+}
+
+.par {
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+  font-weight: 300;
+  color: #000000;
+  margin-left: -0.5px;
+  margin-top: 31px;
+  
+}
+
+#home-section .login-btn {
+  margin-left: -0.5px;
+  margin-top: 50px;
+  margin-right: 36px;
+  background-color: #C22944;
+  border: none;
+  color: #fff;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 52px;
+  padding-left: 52px;
+  border-radius: 30px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+#home-section .signup-btn {
+  margin-top: 50px;
+  margin-right: 36px;
+  background-color: #ffffff;
+  border-color: #00539E;
+  color: #00539E;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 52px;
+  padding-left: 52px;
+  border-radius: 30px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+#home-section {
+  background: #fff;
+  color: #333;
+  min-height: 750px;
+}
+
+#home-section .home-inner {
+  padding-top: 150px;
+}
+
+#home-section .img-home {
+  margin-left: -125px;
+  margin-top: 50px;
+}
+
+.text-muted {
+  font-size: small;
+}
+
+.column {
+  margin-left: 15px;
+}
+
+.column-1 {
+  margin-left: 17px;
+  margin-top: 10px;
+}
+
+.column-g {
+  margin-left: 10px;
+  
+}
+
+.column-hb {
+  padding-left: 25px;
+  margin-top: 10px;
+  
+}
+
+.column-hg {
+  margin-left: 32px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.form-control-date {
+  margin-left: 15px;
+  min-width: 0;
+  width: 272px;
+  
+}
+
+.btn-outline-secondary {
+  padding-right: 160px;
+  padding-left: 160px;
+  margin-bottom: 10px !important;
+}
+
+.error {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 1px;
+  margin: auto;
+  color: #a94442;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.btn-secondary {
+  padding-right: 95px;
+  padding-left: 95px;
+  margin-left: -14px !important;
+  margin-bottom: 10px !important;
+
+}

@@ -1,0 +1,57 @@
+.column {
+    margin-left: 15px;
+  }
+  
+  .column-1 {
+    margin-left: 17px;
+    margin-top: 10px;
+  }
+  
+  .column-g {
+    margin-left: 10px;
+    
+  }
+  
+  .column-hb {
+    padding-left: 25px;
+    margin-top: 10px;
+    
+  }
+  
+  .column-hg {
+    margin-left: 32px;
+    margin-top: 10px;
+    margin-right: 5px;
+  }
+  
+  .form-control-date {
+    margin-left: 15px;
+    min-width: 0;
+    width: 272px;
+    
+  }
+  
+  .btn-outline-secondary {
+    padding-right: 160px;
+    padding-left: 160px;
+    margin-bottom: 10px !important;
+  }
+  
+  .error {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 1px;
+    margin: auto;
+    color: #a94442;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .btn-secondary {
+    padding-right: 95px;
+    padding-left: 95px;
+    margin-left: -14px !important;
+    margin-bottom: 10px !important;
+  
+  }
