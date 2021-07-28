@@ -1,5 +1,25 @@
 # BloodBankSystem
-PROJECT DESCRIPTION
+DATABASE:
+This Blood Donation System uses a database for a number of its functions and modules. This allows the ease of recording
+inputs, viewing records, managing outputs, organizing information, making queries, and real-time
+monitoring. The database features a list of users and information regarding blood donations and
+blood requests. This helps in digitally monitoring patients and donors in a convenient multi-function
+system.
+
+MySQL of phpMyAdmin is what we used in our database management. It is the most popular
+administration tool. It has an uncomplicated GUI and is convenient to use. The queries can be easily
+edited and manipulated through the web supported medium that it holds. It is also flexible for the
+majority of the commonly used file formats.
+
+FRONTEND and BACKEND:
+The front-end language is usually visible to the user in the form of an interface. In this case, the
+system uses the HTML, CSS, Bootstrap and JavaScript as the front end languages and PHP for the
+back end of the system. We use PHP because it is a server side programming language and it
+harmoniously interacts with MySQL database -- which is the database we use to store information
+that our system gathered.
+
+
+PROJECT DESCRIPTION:
 The Blood Donation System is a donation system made for monitoring the blood donation and
 blood requests. This system is mainly intended to help patients who are in need of blood to help
 them during this time of pandemic. This application system is a great help for everyone especially
@@ -48,6 +68,7 @@ they can also track the status of their request. Aside from the dashboard table,
 their transaction reports on the side of their screen that is used to keep track of the result of their 
 request status -- whether they are still pending, approved, or declined. Logging in to their own account
 is necessary to check the updated status (Approved/Declined) of their blood request.
+
 ADMINISTRATOR/MEDICAL PERSONNEL:
 The administrators or medical personnel are the ones responsible for managing the accounts of both
 donors and recipients. They can monitor the activity logs of each user, access the file maintenance
@@ -86,24 +107,6 @@ that help in viewing transactions, recording, generation of reports, auditing, n
 admin’s dashboard and database recovery management; all helpful in an office environment,
 particularly to its target users and admins.
 
-DATABASE:
-BDS uses a database for a number of its functions and modules. This allows the ease of recording
-inputs, viewing records, managing outputs, organizing information, making queries, and real-time
-monitoring. The database features a list of users and information regarding blood donations and
-blood requests. This helps in digitally monitoring patients and donors in a convenient multi-function
-system.
-
-MySQL of phpMyAdmin is what we used in our database management. It is the most popular
-administration tool. It has an uncomplicated GUI and is convenient to use. The queries can be easily
-edited and manipulated through the web supported medium that it holds. It is also flexible for the
-majority of the commonly used file formats.
-
-FRONTEND and BACKEND:
-The front-end language is usually visible to the user in the form of an interface. In this case, the
-system uses the HTML, CSS, Bootstrap and JavaScript as the front end languages and PHP for the
-back end of the system. We use PHP because it is a server side programming language and it
-harmoniously interacts with MySQL database -- which is the database we use to store information
-that our system gathered.
 
 
 
