@@ -80,12 +80,19 @@ or decline the blood request of the patients.
 Every transaction made by the donor and patient are recorded in the admin’s file maintenance.
 ## This file maintenance are filled with essential reports such as the following:
 • List of Donors
+
 • List of Patients
+
 • Blood Types Stored in Blood Bank
+
 • Total Blood Availability
+
 • Total Number of Blood Requests
+
 • Total Number of Approved Request
+
 • Total Number of Declined Request
+
 Aside from these reports, the admin/medical personnel panel is also capable of adding new users,
 modifying data, and removing existing users.
 These reports are updated in the real-time manner as the users make interactions in their dashboards.
