@@ -1,5 +1,5 @@
 # BloodBankSystem
-DATABASE:
+## DATABASE:
 This Blood Donation System uses a database for a number of its functions and modules. This allows the ease of recording
 inputs, viewing records, managing outputs, organizing information, making queries, and real-time
 monitoring. The database features a list of users and information regarding blood donations and
@@ -11,7 +11,7 @@ administration tool. It has an uncomplicated GUI and is convenient to use. The q
 edited and manipulated through the web supported medium that it holds. It is also flexible for the
 majority of the commonly used file formats.
 
-FRONTEND and BACKEND:
+## FRONTEND and BACKEND:
 The front-end language is usually visible to the user in the form of an interface. In this case, the
 system uses the HTML, CSS, Bootstrap and JavaScript as the front end languages and PHP for the
 back end of the system. We use PHP because it is a server side programming language and it
@@ -19,7 +19,7 @@ harmoniously interacts with MySQL database -- which is the database we use to st
 that our system gathered.
 
 
-PROJECT DESCRIPTION:
+## PROJECT DESCRIPTION:
 The Blood Donation System is a donation system made for monitoring the blood donation and
 blood requests. This system is mainly intended to help patients who are in need of blood to help
 them during this time of pandemic. This application system is a great help for everyone especially
@@ -28,18 +28,19 @@ of medical crisis. Through this Blood Donation System, we can confirm the status
 blood requests and the donors’ blood donations. Aside from this, we can also see a variety of
 generated reports and audit trails, both beneficials to the users and medical personnel.
 
-REGISTRATION:
+## REGISTRATION:
 Registering is necessary if the users wants to be a part of this community, either being a
 recipient/patient or a donor. A donor user is the ones that are donating bloods to the patients who
 are requesting to have a blood transfusion with.
-DONATIONS:
+
+## DONATIONS:
 Donations are being scheduled through our electronic system which is indeed preferred because it
 will lessen the paperwork that might cause the spread of the COVID-19 virus, thus prolonging the
 pandemic, which this application system is trying to prevent from happening. Thus, only the
 authorized personnel are allowed to do the transfusion of blood pints to the beneficiaries of the
 blood donations.
 
-BLOOD DONOR:
+## BLOOD DONOR:
 Donors can make upto two blood pints per donation which is medically correct because a person
 can only donate a maximum of 2 blood pints (900 ml) per appointment. A donor can donate blood
 by clicking the “Add Donation” button in their dashboard. In the donation slip, the donor’s 
@@ -53,7 +54,7 @@ proof of donation.
 Donor users also have the capacity to change their provided data if it changes over time such as
 their password, last name, first name, contact number, user name, and etc.
 
-BLOOD PATIENT:
+## BLOOD PATIENT:
 Patients are only entitled to get a maximum of 2 blood pints. In the patient’s dashboard, they are
 given a variety of functions such as requests for blood donation, viewing their transaction reports,
 and editing and deleting their data. One of the most important functions that they have is the “Request
@@ -69,7 +70,7 @@ their transaction reports on the side of their screen that is used to keep track
 request status -- whether they are still pending, approved, or declined. Logging in to their own account
 is necessary to check the updated status (Approved/Declined) of their blood request.
 
-ADMINISTRATOR/MEDICAL PERSONNEL:
+## ADMINISTRATOR/MEDICAL PERSONNEL:
 The administrators or medical personnel are the ones responsible for managing the accounts of both
 donors and recipients. They can monitor the activity logs of each user, access the file maintenance
 module, track the generated reports, download the database backups, and audit trails. In addition,
@@ -77,7 +78,7 @@ they are also the one who manages the blood being donated and claimed at the tim
 administrators or medical personnel are also the ones who make the decisions whether to approve
 or decline the blood request of the patients.
 Every transaction made by the donor and patient are recorded in the admin’s file maintenance.
-This file maintenance are filled with essential reports such as the following:
+## This file maintenance are filled with essential reports such as the following:
 • List of Donors
 • List of Patients
 • Blood Types Stored in Blood Bank
@@ -92,14 +93,14 @@ This real-time data is information that is reflected immediately after collectio
 are proud to say that there is no delay in the timeliness of the information transactions. We use the
 real-time data for us to track the BDS users and know their activities.
 
-GRAPHICAL USER INTERFACE:
+## GRAPHICAL USER INTERFACE:
 The Blood donation system has a user-friendly interface that is made so that the target users may
 easily understand and navigate through the system application. Another is that its system is designed
 to give the results and reports needed quickly in real-time and conveniently which makes the
 software fit for its target users. This will help increase the ease of use of the users, additionally, the
 system contains more features and functions that helps in managing other tasks effectively.
 
-SECURITY FEATURES:
+## SECURITY FEATURES:
 The system has a security feature to help keep its recorded files safe and secure. From the log-in
 module to its applied security features, the system is secured in a number of levels. As for its
 functions, menus, and key features, the system contains about a number of interactable elements
