@@ -6,7 +6,7 @@ monitoring. The database features a list of users and information regarding bloo
 blood requests. This helps in digitally monitoring patients and donors in a convenient multi-function
 system.
 
-MySQL of phpMyAdmin is what we used in our database management. It is the most popular
+MySQL of phpMyAdmin (relational database) is used in our database management. It is the most popular
 administration tool. It has an uncomplicated GUI and is convenient to use. The queries can be easily
 edited and manipulated through the web supported medium that it holds. It is also flexible for the
 majority of the commonly used file formats.
